@@ -1,0 +1,2 @@
+cd ~
+git clone git://github.com/matlo/bb_usb_sniffer.git
